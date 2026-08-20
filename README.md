@@ -1,6 +1,6 @@
-# CP
+# Cálculo de Programas
 
-Conteúdo da unidade curricular **CP** do ano letivo 2025/2026.
+Conteúdo da unidade curricular **Cálculo de Programas** do ano letivo 2025/2026.
 
 Avaliação por testes (sem trabalho prático).
 
